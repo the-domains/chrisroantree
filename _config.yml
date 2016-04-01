@@ -1,4 +1,5 @@
-layout_spectrum: 0.91312
+favicon: null
+name: chrisroantree
 opengraph:
   image: null
   type: null
@@ -17,16 +18,17 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 0.3125
-  brandStrength: 0.7986037
-  lightness: 0.25
+  saturation: 0.3839957
+  brandStrength: 0.8694951
+  lightness: 0.6331901
   brandColors:
-    - '#16171E'
-    - '#E8E9E1'
-    - '#5D645C'
-    - '#808678'
-  rhythmicContrast: 0.25
+    - '#18181D'
+    - '#E8E8E0'
+    - '#3A413A'
+    - '#656D5D'
+  rhythmicContrast: 0.6643394
 typography_spectrum: 0.87958
+layout_spectrum: 0.91312
 cta:
   bucket: null
   version: null
@@ -35,5 +37,3 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: chrisroantree
