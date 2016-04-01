@@ -1,9 +1,7 @@
-favicon: null
 name: chrisroantree
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.91312
+typography_spectrum: 0.87958
 collections:
   - index:
       path: /
@@ -16,24 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+title: 'etchings & drawings'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3839957
-  brandStrength: 0.8694951
-  lightness: 0.6331901
   brandColors:
     - '#18181D'
     - '#E8E8E0'
     - '#3A413A'
     - '#656D5D'
+  brandStrength: 0.8694951
+  lightness: 0.6331901
+  saturation: 0.3839957
   rhythmicContrast: 0.6643394
-typography_spectrum: 0.87958
-layout_spectrum: 0.91312
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+purpose: []
