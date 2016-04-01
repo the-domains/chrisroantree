@@ -1,28 +1,39 @@
-name: chrisroantree
-favicon: null
 layout_spectrum: 0.91312
-typography_spectrum: 0.87958
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#0d0f0a'
-    - '#e0dfdb'
-    - '#55514e'
-    - '#948f8b'
-    - '#b5b2ad'
-  brandStrength: 0.125
-  lightness: 0.25
-  saturation: 0.3125
-  rhythmicContrast: 0.25
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.3125
+  brandStrength: 0.7986037
+  lightness: 0.25
+  brandColors:
+    - '#16171E'
+    - '#E8E9E1'
+    - '#5D645C'
+    - '#808678'
+  rhythmicContrast: 0.25
+typography_spectrum: 0.87958
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: chrisroantree
