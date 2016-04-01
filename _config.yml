@@ -1,6 +1,6 @@
 name: chrisroantree
 favicon: null
-layout_spectrum: 0.91312
+layout_spectrum: 0.51813
 typography_spectrum: 0.87958
 collections:
   - index:
@@ -35,7 +35,7 @@ color:
     - '#666e70'
     - '#b8bebe'
   brandStrength: 0.625
-  lightness: 0.5
+  lightness: 0.1875
   saturation: 0.625
   rhythmicContrast: 0.5
 purpose: []
